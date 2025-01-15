@@ -47,6 +47,11 @@ const USER_CONFIG = {
         { keyword: 'marry_day', date: '2022-09-09' },
       ],
     },
+    {
+      name: ''halo,
+      id: 'ogflX6dvoJOSlQslEHSUXJfLsAOQ',
+      useTemplateId: 'o8ZaVeCvsi9AgyM5Yh9_wTBCBT1gwuXENzFzqxH20N8'
+    }
   ],
 
 
