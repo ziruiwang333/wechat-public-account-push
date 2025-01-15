@@ -48,7 +48,7 @@ const USER_CONFIG = {
       ],
     },
     {
-      name: ''halo,
+      name: 'halo',
       id: 'ogflX6dvoJOSlQslEHSUXJfLsAOQ',
       useTemplateId: 'o8ZaVeCvsi9AgyM5Yh9_wTBCBT1gwuXENzFzqxH20N8'
     }
